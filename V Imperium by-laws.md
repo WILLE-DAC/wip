@@ -92,11 +92,9 @@ I. Adherence to or withdrawal from the DAC is made exclusively through the on-li
 Anonymity
 </p>
 
-1. Stakeholders identity is conceiled; stakeholders can publish and vote on proposals, invest and withdraw cryptocurrency without disclosing real identity.
+1. Shareholders identity is conceiled; shareholders can publish and vote on proposals, invest and withdraw cryptocurrency without disclosing real identity.
 
-2. Angels need to proove their previous membership as angels within NERV sister DAC but need not disclose their real identity.
-
-3. Composition and identity of KREDIT members must be dully disclosed.
+2. Stakeholders (as organizations) and the managerial team democratically indigitated by them must be dully identified.
 
 <p align="center">
 <b>( article 6 )</b><br>
