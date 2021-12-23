@@ -230,9 +230,7 @@ Shareholders are all those members of V Imperium who invest a minium amount of c
 Work order
 </p>
 
-I. Can publish and vote on proposals.
-
-II. Can veto but cannot vote on quadratic funding rounds held between angels and management team.
+Can publish and vote on proposals.
 
 <p align="center">
 <b>( article 3 )</b><br>
@@ -246,9 +244,7 @@ Stakeholderss are (...)
 Work order
 </p>
 
-I. Can publish and vote on proposals.
-
-II. Can veto but cannot vote on quadratic funding rounds held between angels and managerial team.
+Can publish and vote on proposals.
 
 <p align="center">
 <b>( article 4 )</b><br>
@@ -257,9 +253,7 @@ II. Can veto but cannot vote on quadratic funding rounds held between angels and
 
 Is the co-founding group of V Imperium along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAC towards success of its  main mission.
 
-I.  Can participate in DAOs governance by publishing proposals. If overall voter turnout whithin V Imperium is consistently low, then proposals put forward by KREDIT get approved by negative adaptive quorum biasing. Otherwise proposals and votes from KREDIT are decided with simple consensus.
-
-II. Participates in quadratic funding rounds together with angels.
+Can participate in DAOs governance by publishing proposals. If overall voter turnout whithin V Imperium is consistently low, then proposals put forward by KREDIT get approved by negative adaptive quorum biasing. Otherwise proposals and votes from KREDIT are decided with simple consensus.
 
 <p align="center">
 <b>( article 4-b )</b><br>
@@ -312,8 +306,6 @@ I. Can veto proposals made by shareholders by simple majority consensus.
 
 II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
-III. Participates in quadratic funding rounds together with the manegerial team.
-
 <p align="center">
 <b>( article 6 )</b><br>
 Contractors
@@ -353,10 +345,6 @@ I. The title must be a short phrase associated with the proposal with a maximum 
 II. The abstract should also briefly explain the subject to which it refers, and consist of between 100 and 300 words.
 
 III. The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
-
-IV. 30% of the treasury is to be reserved to quadratic funding rounds approved exclusively by angels and KREDIT but which can be vetoed by shareholders.
-
-V. 70% of the treasury is to be governed by democratic consensus between all members of the DAC with each vote weighting proportionally to the stake.
 
 <p align="center">
 <b>( article 3-b )</b><br>
@@ -405,13 +393,6 @@ Negative adaptive quorum biasing
 </p>
 
 "A referendum can be either simple majority-carries in which 50%+1 of the votes decide the outcome or adaptive quorum biased. Adaptive quorum biasing makes the threshold for passing or rejecting a referendum higher or lower depending on how the referendum was originally proposed. Negative turnout bias makes a referendum require a super-majority to reject that decreases as turnout increases. Another way to think about the quorum biasing is that positive bias referendums will be rejected by default and negative bias referendums get passed by default."
-
-<p align="center">
-<b>( article 6 )</b><br>
-Quadratic funding
-</p>
-
-(elaborate)
 
 ## Smart-contracts
 
