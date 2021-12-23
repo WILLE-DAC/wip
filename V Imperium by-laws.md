@@ -391,13 +391,13 @@ II. Analogously to the previous point, the evaluation period of a proposal can b
 
 <p align="center">
 <b>( article 4 )</b><br>
-Veto</p>
+Veto & dissolution</p>
 
 As stipulated before:
 
-I. Angels can veto proposals by shareholders.
+I. Shareholders dissolve the manegerial team and call for new elections with different actors.
 
-II. Shareholders can veto quadratic funding rounds held by angels and KREDIT.
+II. Managerial team can veto proposals made by the shareholders.
 
 <p align="center">
 <b>( article 5 )</b><br>
