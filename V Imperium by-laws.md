@@ -24,7 +24,7 @@ Aspects yet to be defined upon the launch of the DAC.
 Mission
 </p>
 
-V Imperium is a decentralized autonomous organization (DAC) committed to developing and implementing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus. Our action takes place all over the world from developed countries to installed dictatorships; we are here to help humanity achieve its full potential by combating concentration of power and its abuse.
+V Imperium is a decentralized autonomous corporation (DAC) committed to developing and implementing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus. Our action takes place all over the world from developed countries to installed dictatorships; we are here to help humanity achieve its full potential by combating concentration of power and its abuse.
 
 <p align="center">
 <b>( article 2 )</b><br>
