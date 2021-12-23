@@ -1,11 +1,11 @@
-# V Imperium DAO by-laws
+# V Imperium DAC by-laws
 
 <ul>
 <li><b>General provisions</b></li>
-Fundamental principles to which DAO members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
+Fundamental principles to which DAC members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
   
 <li><b>Internal organization</b></li>
-Dates for the meetings, mission and composition of the DAO organs; work orders and other details regarding leadership and management.
+Dates for the meetings, mission and composition of the DAC organs; work orders and other details regarding leadership and management.
   
 <li><b>Deliberative criteria</b></li>
 Rules for decision-making, criteria for establishing and curating proposals. Reporting tools. Off-chain governance.
@@ -14,7 +14,7 @@ Rules for decision-making, criteria for establishing and curating proposals. Rep
 On-chain governance; financing of V Imperium activities, transparency; management of the treasury.
   
 <li><b>Temporary provisions</b></li>
-Aspects yet to be defined upon the launch of the DAO.
+Aspects yet to be defined upon the launch of the DAC.
 </ul>
 
 ## General provisions
@@ -24,30 +24,30 @@ Aspects yet to be defined upon the launch of the DAO.
 Mission
 </p>
 
-V Imperium is a decentralized autonomous organization (DAO) committed to developing and implementing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus. Our action takes place all over the world from developed countries to installed dictatorships; we are here to help humanity achieve its full potential by combating concentration of power and its abuse.
+V Imperium is a decentralized autonomous organization (DAC) committed to developing and implementing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus. Our action takes place all over the world from developed countries to installed dictatorships; we are here to help humanity achieve its full potential by combating concentration of power and its abuse.
 
 <p align="center">
 <b>( article 2 )</b><br>
 Name, acronym and symbol
 </p>
 
-This DAO is named V Imperium inspired by a popular anime series and which stands in German for volition or 'the' will. Colors are white and blue and as a symbol we have a lock and a key in representation of our strong values regarding cybersecurity.
+This DAC is named V Imperium inspired by a popular anime series and which stands in German for volition or 'the' will. Colors are white and blue and as a symbol we have a lock and a key in representation of our strong values regarding cybersecurity.
 
 <p align="center">
 <b>( article 3 )</b><br>
 Recognition of the Model Law for Decentralized Autonomous Organizations (DAOs) by the Coalition of Automated Legal Applications
 </p>
 
-Considering that at the moment of publication, there is a legal vacuum as regards to how DAOs should be framed in the legal context, worldwide, V Imperium endorses the adoption of the Model Law for DAOs<sup>[1](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf)</sup> written by the COALA organization.
+Considering that at the moment of publication, there is a legal vacuum as regards to how DAOs should be framed in the legal context, worldwide, V Imperium endorses the adoption of the Model Law for DAOs<sup>[1](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAC-Model-Law.pdf)</sup> written by the COALA organization.
 
 <p align="center">
 <b>( article 4 )</b><br>
 On-line discussion platform
 </p>
 
-The on-line discussion platform, or on-line platform short, is computer software and the necessary underlying blockchain infrastructure that allows secure exchange of messages and the realization of cheap, fast and reliable on-line referendums between members of the DAO. It also provides the visualization of live video streams of video-conferences and debates and serves as a repository for data necessary to the study of the proposals put forward by DAO members.
+The on-line discussion platform, or on-line platform short, is computer software and the necessary underlying blockchain infrastructure that allows secure exchange of messages and the realization of cheap, fast and reliable on-line referendums between members of the DAC. It also provides the visualization of live video streams of video-conferences and debates and serves as a repository for data necessary to the study of the proposals put forward by DAC members.
 
-I. All the information and tools that are considered important to the functioning of the V Imperium DAO are to be readily available for consultation with real-time data whenever possible on the on-line platform.
+I. All the information and tools that are considered important to the functioning of the V Imperium DAC are to be readily available for consultation with real-time data whenever possible on the on-line platform.
 
 II. The on-line platform must deploy the most advanced technologies for identity management and secured communications. This includes cryptographic algorithms such as PKI, Zero-Knowledge Proofs, Homomorphic Encryption, blockchain, etc., whenever necessary.
 
@@ -56,11 +56,11 @@ II. The on-line platform must deploy the most advanced technologies for identity
 Functionalities
 </p>
 
-Through the on-line platform the DAO members are able to:
+Through the on-line platform the DAC members are able to:
 
-I. Watch live streams of any debates and video-conferences that may take place during the DAO activities as well as provide access to previous debates at any time and at all levels of the organisation. This functionality can be paired with existing decentralized networks such as IPFS, Odysee or Skynet as examples.
+I. Watch live streams of any debates and video-conferences that may take place during the DAC activities as well as provide access to previous debates at any time and at all levels of the organisation. This functionality can be paired with existing decentralized networks such as IPFS, Odysee or Skynet as examples.
 
-II. DAO members can chat on-line, publish content and rate each others publications. This can be done publicly or in private groups.
+II. DAC members can chat on-line, publish content and rate each others publications. This can be done publicly or in private groups.
 
 III. Members may publish proposals and vote on-line remotely from their own computer in any location. The voting procedure as well as the final tally must be verifiable by the voter while guaranteeing privacy. This is accomplished through cryptography.<sup>[2](https://github.com/partidodigitalpt/documentation/blob/main/Remote%20e-voting%20overview.md)</sup>
 
@@ -84,9 +84,9 @@ III. Moderation is user-centric meaning no special roles are assigned to any use
 Registration
 </p>
 
-The enrolment in the DAO is an individual choice and requires the investment of a minimum sum in cryptocurrency and a passphrase given by one of V Imperium's members. Raw biometric data is never to be kept in any database.
+The enrolment in the DAC is an individual choice and requires the investment of a minimum sum in cryptocurrency and a passphrase given by one of V Imperium's members. Raw biometric data is never to be kept in any database.
 
-I. Adherence to or withdrawal from the DAO is made exclusively through the on-line platform. Registries are published and managed in a decentralized database (blockchain).
+I. Adherence to or withdrawal from the DAC is made exclusively through the on-line platform. Registries are published and managed in a decentralized database (blockchain).
 
 <p align="center">
 <b>( article 5-b )</b><br>
@@ -95,7 +95,7 @@ Anonymity
 
 1. Stakeholders identity is conceiled; stakeholders can publish and vote on proposals, invest and withdraw cryptocurrency without disclosing real identity.
 
-2. Angels need to proove their previous membership as angels within NERV sister DAO but need not disclose their real identity.
+2. Angels need to proove their previous membership as angels within NERV sister DAC but need not disclose their real identity.
 
 3. Composition and identity of KREDIT members must be dully disclosed.
 
@@ -104,22 +104,22 @@ Anonymity
 Incompatibility regime
 </p>
 
-DAO members may hold no more than one position within the DAO official structures unless stated otherwise.
+DAC members may hold no more than one position within the DAC official structures unless stated otherwise.
 
 <p align="center">
 <b>( article 7 )</b><br>
-Rights and duties of DAO members
+Rights and duties of DAC members
 </p>
 
-It is the right of members of the DAO to participate in all activities and bodies, to formulate any suggestion or criticism that may be deemed convenient or to publish new proposals or changes to existing ones. Everything should be doable with the support of the on-line platform. Alternatively, V Imperium welcomes paper-based proposals and referendums.
+It is the right of members of the DAC to participate in all activities and bodies, to formulate any suggestion or criticism that may be deemed convenient or to publish new proposals or changes to existing ones. Everything should be doable with the support of the on-line platform. Alternatively, V Imperium welcomes paper-based proposals and referendums.
 
 I. Decisions at all levels are to be made by democratic consensus.
 
-II. Every member of the DAO has the right to elect and be elected to any of the DAO’s organs.
+II. Every member of the DAC has the right to elect and be elected to any of the DAC’s organs.
 
-III. The right to be informed in a transparent and clear way about all economical activities of the DAO.
+III. The right to be informed in a transparent and clear way about all economical activities of the DAC.
 
-IV. Members are entitled free access to all documents ratified by DAO bodies that result from meetings, workings and  internal referendums held during the normal functioning of the DAO. The information must be available in digital format in the on-line platform.
+IV. Members are entitled free access to all documents ratified by DAC bodies that result from meetings, workings and  internal referendums held during the normal functioning of the DAC. The information must be available in digital format in the on-line platform.
 
 V. It is duty to perform with zeal, assiduity and loyalty to the other members the positions, functions and workings entrusted by them.
 
@@ -128,13 +128,13 @@ V. It is duty to perform with zeal, assiduity and loyalty to the other members t
 Works
 </p>
 
-DAO members are invited to contribute to the elaboration, execution and supervision of a myriad of projects related to the mission of V Imperium. To be eligible, members must inform the DAO of the availability and area of expertise through the on-line platform.
+DAC members are invited to contribute to the elaboration, execution and supervision of a myriad of projects related to the mission of V Imperium. To be eligible, members must inform the DAC of the availability and area of expertise through the on-line platform.
 
 I. By signing up as volunteers and depending on the academic background, members are able to execute tasks and perform jobs in representation of V Imperium which can be recompensated monetarily.
 
 II. The adjudication, management and supervision of the works are of the responsibility of various ethical committees, or angels.
 
-III. The acceptance of a job position within the DAO requires the signing of a contract, either digitaly or in paper, between V Imperium and the contributor. Because there is no legal standards around this practice, we recommend the adoption of an equivalent of the DAO Contributor Agreement<sup>[3](https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md)</sup> published by Larry Florio that may seem appropriate.
+III. The acceptance of a job position within the DAC requires the signing of a contract, either digitaly or in paper, between V Imperium and the contributor. Because there is no legal standards around this practice, we recommend the adoption of an equivalent of the DAO Contributor Agreement<sup>[3](https://github.com/LarryFlorio/LegalForms/blob/main/DAC-Contributor-Agmt/DAC%20Contributor%20Agreement.md)</sup> published by Larry Florio that may seem appropriate.
 
 IV. Conditions for eligibility for the execution tasks and jobs, sources of financing and the procedures for the payments are established in Chapter IV – Smart-contracts.
 
@@ -150,15 +150,15 @@ Membership withdrawal can be done at any time without any prejudice and with imm
 Penalties
 </p>
 
-By going against these by-laws to which members of the DAO agreed upon joining, V Imperium members may be alerted or have their membership retracted for a temporary period or, for repeated misbehaviour or inexcusable situations such as; attempt to attack the informatic system or publishing inappropriate content into the on-line platform, the membership status may be revoked permanently. The decision to expel a DAO member is made by democratic consensus on the on-line platform where every member is granted equal vote:
+By going against these by-laws to which members of the DAC agreed upon joining, V Imperium members may be alerted or have their membership retracted for a temporary period or, for repeated misbehaviour or inexcusable situations such as; attempt to attack the informatic system or publishing inappropriate content into the on-line platform, the membership status may be revoked permanently. The decision to expel a DAC member is made by democratic consensus on the on-line platform where every member is granted equal vote:
 
-I. Not partaking in DAO's activities by voting directly or by delegating the right to vote for a period longer than 180 days.
+I. Not partaking in DAC's activities by voting directly or by delegating the right to vote for a period longer than 180 days.
 
-II. By not respecting the deadlines and tasks that were entrusted by the DAO and accepted by the member, the membership may be revoked temporarily for a period of up to 1 year.
+II. By not respecting the deadlines and tasks that were entrusted by the DAC and accepted by the member, the membership may be revoked temporarily for a period of up to 1 year.
 
 III. Publishing pornography, inciting to any kind of physical violence or any form of hate speech against minorities be it of ethnographical origin, attacking normal sexual orientation (hetero-homo-bi) or making false accusations against other members may be reason enough to be banned for a period longer than 1 year.
 
-IV. It's considered sufficient reason to ban a member from the DAO if unjustified false information is uploaded to the on-line platform.
+IV. It's considered sufficient reason to ban a member from the DAC if unjustified false information is uploaded to the on-line platform.
 
 V. It’s the responsibility of the ethical committees (angels) to develop mechanisms that contribute to the evaluation of the situations described above and to publish alerts on the on-line platform whenever it may be considered appropriate to do so.
 
@@ -169,7 +169,7 @@ VI. In case of expulsion from V Imperium a minimum value equivalent to the initi
 Bodies
 </p>
 
-There are 3 different bodies that contribute to the normal functioning of the V Imperium DAO: shareholders, angels and KREDIT.
+There are 3 different bodies that contribute to the normal functioning of the V Imperium DAC: shareholders, angels and KREDIT.
 
 <p align="center">
 <b>( article 12 )</b><br>
@@ -185,22 +185,22 @@ I. The choice for the location of these spaces must be made through democratic c
 Contacts
 </p>
 
-Management of the DAO’s official mail and e-mails is done by KREDIT.
+Management of the DAC’s official mail and e-mails is done by KREDIT.
 
-I. The official URL for the website of the DAO is URL. The IPFS hash entrypoint to the website is HASH.
+I. The official URL for the website of the DAC is URL. The IPFS hash entrypoint to the website is HASH.
 
-II. The official mail addresses for the DAO are the corresponding addresses of the head office.
+II. The official mail addresses for the DAC are the corresponding addresses of the head office.
 
 <p align="center">
 <b>( article 13-b )</b><br>
 Website
 </p>
 
-The official website of the V Imperium DAO serves the purpose of presenting V Imperium's work to the public and of recruiting new members.
+The official website of the V Imperium DAC serves the purpose of presenting V Imperium's work to the public and of recruiting new members.
 
 I. Maintenance and updates to the website are the responsibility of a special ethical committee formed from members amongst the angels.
 
-II. The website should at least link to DAO's repositories, contacts and dapp download.
+II. The website should at least link to DAC's repositories, contacts and dapp download.
 
 ## Internal organization
 
@@ -209,7 +209,7 @@ II. The website should at least link to DAO's repositories, contacts and dapp do
 Internal organization
 </p>
 
-This chapter explains the objective for which each of the DAO’s bodies were thought of as well as their operating rules and how they should interrelate during DAO’s activity.
+This chapter explains the objective for which each of the DAC’s bodies were thought of as well as their operating rules and how they should interrelate during DAC’s activity.
 
 <p align="center">
 <b>( article 2 )</b><br>
@@ -232,7 +232,7 @@ II. Can veto but cannot vote on quadratic funding rounds held between angels and
 Angels
 </p>
 
-Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from V Imperium's treasury. The first ethical committees are also co-founders of V Imperium along with KREDIT.
+Are the organs responsible to evaluate the level of corruption within the DAC. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from V Imperium's treasury. The first ethical committees are also co-founders of V Imperium along with KREDIT.
 
 <p align="center">
 <b>( article 3-b )</b><br>
@@ -264,7 +264,7 @@ III. Participates in quadratic funding rounds together with KREDIT.
 KREDIT
 </p>
 
-Is the co-founding group of V Imperium along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission.
+Is the co-founding group of V Imperium along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAC towards success of its  main mission.
 
 I.  Can participate in DAOs governance by publishing proposals. If overall voter turnout whithin V Imperium is consistently low, then proposals put forward by KREDIT get approved by negative adaptive quorum biasing. Otherwise proposals and votes from KREDIT are decided with simple consensus.
 
@@ -282,21 +282,21 @@ Videoconferences at least once monthly. These videoconferences are to be made pu
 Composition
 </p>
 
-Initially, KREDIT's composed of the founding members of the V Imperium DAO. At any time KREDIT can consensually invite or kick members from its composition.
+Initially, KREDIT's composed of the founding members of the V Imperium DAC. At any time KREDIT can consensually invite or kick members from its composition.
 
 <p align="center">
 <b>( article 4-d )</b><br>
 Work order
 </p>
 
-Provides guidance to the DAO by regularly discussing important events to V Imperium. (elaborate)
+Provides guidance to the DAC by regularly discussing important events to V Imperium. (elaborate)
 
 <p align="center">
 <b>( article 5 )</b><br>
 Contractors
 </p>
 
-Are all those entities external to V Imperium to whom treasury resources are allocated in exchange for a service relevant to the DAO.
+Are all those entities external to V Imperium to whom treasury resources are allocated in exchange for a service relevant to the DAC.
 
 I. Contractors are chosen by consensual decision through the on-line platform (submission of a proposal).
 
@@ -323,7 +323,7 @@ The announcement of the venue and the sending of invitations for the participati
 Proposals
 </p>
 
-Any DAO member can publish a new proposal or propose changes to existing proposals by using the forums on the on-line platform. The proposals must consist of a title, an abstract and a body:
+Any DAC member can publish a new proposal or propose changes to existing proposals by using the forums on the on-line platform. The proposals must consist of a title, an abstract and a body:
 
 I. The title must be a short phrase associated with the proposal with a maximum of 30 words.
 
@@ -333,14 +333,14 @@ III. The body, without limitations, must contain the proposal itself as detailed
 
 IV. 30% of the treasury is to be reserved to quadratic funding rounds approved exclusively by angels and KREDIT but which can be vetoed by shareholders.
 
-V. 70% of the treasury is to be governed by democratic consensus between all members of the DAO with each vote weighting proportionally to the stake.
+V. 70% of the treasury is to be governed by democratic consensus between all members of the DAC with each vote weighting proportionally to the stake.
 
 <p align="center">
 <b>( article 3-b )</b><br>
 Urgency
 </p>
 
-Parallel to the indicator defined above, DAO members are invited to classify a given policy according to how urgent they consider it to be; irrelevant, of little importance, useful, important and urgent.
+Parallel to the indicator defined above, DAC members are invited to classify a given policy according to how urgent they consider it to be; irrelevant, of little importance, useful, important and urgent.
 
 <p align="center">
 <b>( article 3-c )</b><br>
@@ -360,7 +360,7 @@ IV. High-impact proposals are considered to be all whose financing is greater th
 Evaluation period
 </p>
 
-The proposal evaluation period is an evaluation period of 3 months during which the proposals are to be discussed amongst the DAO members and the various bodies before being officially accepted and implemented through smart-contracts.
+The proposal evaluation period is an evaluation period of 3 months during which the proposals are to be discussed amongst the DAC members and the various bodies before being officially accepted and implemented through smart-contracts.
 
 I. The KREDIT may, by simple consensus, shorten the evaluation time for a given bill to a period no shorter than 1 month, if it is considered necessary to make urgent decisions. 
 
@@ -397,7 +397,7 @@ Quadratic funding
 Transparency
 </p>
 
-The V Imperium DAO has in its genesis the principle of transparency, that is, all decision-making, meetings, debates and internal procedures are always public.
+The V Imperium DAC has in its genesis the principle of transparency, that is, all decision-making, meetings, debates and internal procedures are always public.
 
 <p align="center">
 <b>( article 2 )</b><br>
@@ -415,21 +415,21 @@ II. Shareholders must transfer a minimum and a maximum value of cryptocurrency i
 Contributions
 </p>
 
-Membership and participation in the V Imperium’s bodies is always free of additional charges only requiring the payment of the membership fee. However, DAO members are welcomed to give contributions by sending cryptocurrency to the V Imperium DAO’s wallet address. These contributions are to be publicly announced on the DAO’s official website and a special badge is given under the forum’s avatar of the donator in the on-line platform for a period.
+Membership and participation in the V Imperium’s bodies is always free of additional charges only requiring the payment of the membership fee. However, DAC members are welcomed to give contributions by sending cryptocurrency to the V Imperium DAC’s wallet address. These contributions are to be publicly announced on the DAC’s official website and a special badge is given under the forum’s avatar of the donator in the on-line platform for a period.
 
 <p align="center">
 <b>( article 3 )</b><br>
 Cryptocurrency
 </p>
 
-The cryptocurrency that is to be used by the DAO is eth, the native cryptocurrency supported by Ethereum 2’s main-net.
+The cryptocurrency that is to be used by the DAC is eth, the native cryptocurrency supported by Ethereum 2’s main-net.
 
 <p align="center">
 <b>( article 4 )</b><br>
 Financial report
 </p>
 
-Because V Imperium runs on a dApp supported by blockchain financial reporting and accounting can be done automatically by a computer algorithm. In fact every proposal and transfer of money from V Imperium's treasury is properly recorded and accounted for. Thus we require a monthly publication on the official website of DAO and through the on-line platform:
+Because V Imperium runs on a dApp supported by blockchain financial reporting and accounting can be done automatically by a computer algorithm. In fact every proposal and transfer of money from V Imperium's treasury is properly recorded and accounted for. Thus we require a monthly publication on the official website of DAC and through the on-line platform:
 
 I. A monthly provisional trial balance published at the beggining of each month.
 
@@ -450,7 +450,7 @@ Dividends</p>
 
 I. 1% of the total of the generated dividends at the end of the fiscal year are given and shared equally between KREDIT members.
 
-II. At the end of each fiscal year, a % of the sum of the dividends generated by the DAO return to the investors in proportion to their stake.
+II. At the end of each fiscal year, a % of the sum of the dividends generated by the DAC return to the investors in proportion to their stake.
 
 ## Temporary provisions
 
@@ -459,12 +459,12 @@ WORK IN PROGRESS
 
 ## References
 
-\[1\] "Model Law for Decentralized Autonomous Organizations (DAOs)", Coalition of Automated Legal Applications, 2021. https://coala.global/, https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf
+\[1\] "Model Law for Decentralized Autonomous Organizations (DAOs)", Coalition of Automated Legal Applications, 2021. https://coala.global/, https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAC-Model-Law.pdf
 
 \[2\] "Remote e-voting overview", 14th International Conference on Theory and Practice of Electronic Governance, 2021. https://www.icegov.org/, https://github.com/partidodigitalpt/documentation/blob/main/Remote%20e-voting%20overview.md
 
-\[3\] "DAO Contributor Agreement", Larry Florio, New York, 2021. https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
+\[3\] "DAO Contributor Agreement", Larry Florio, New York, 2021. https://github.com/LarryFlorio/LegalForms/blob/main/DAC-Contributor-Agmt/DAC%20Contributor%20Agreement.md
 
 ## Other
 
-"A Legal Framework for Decentralized Autonomous Organizations" by David Kerr and Miles Jennings, USA, 2021.  https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf
+"A Legal Framework for Decentralized Autonomous Organizations" by David Kerr and Miles Jennings, USA, 2021.  https://a16z.com/wp-content/uploads/2021/10/DAC-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf
