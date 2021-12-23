@@ -37,7 +37,7 @@ This DAC is named V Imperium inspired by a poem made by an acclaimed portuguese 
 Recognition of the Model Law for Decentralized Autonomous Organizations (DAOs) by the Coalition of Automated Legal Applications
 </p>
 
-Considering that at the moment of publication, there is a legal vacuum as regards to how DAOs should be framed in the legal context, worldwide, V Imperium endorses the adoption of the Model Law for DAOs<sup>[1](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAC-Model-Law.pdf)</sup> written by the COALA organization.
+Considering that at the moment of publication, there is a legal vacuum as regards to how DAOs (to which DACs are a subset) should be framed in the legal context, worldwide, V Imperium endorses the adoption of the Model Law for DAOs<sup>[1](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAC-Model-Law.pdf)</sup> written by the COALA organization.
 
 <p align="center">
 <b>( article 4 )</b><br>
