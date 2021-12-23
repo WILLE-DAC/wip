@@ -192,7 +192,7 @@ I. The choice for the location of these spaces must be made through democratic c
 Contacts
 </p>
 
-Management of the DAC’s official mail and e-mails is done by KREDIT.
+Management of the DAC’s official mail and e-mails is done by the manegerial team.
 
 I. The official URL for the website of the DAC is URL. The IPFS hash entrypoint to the website is HASH.
 
@@ -248,7 +248,7 @@ Work order
 
 I. Can publish and vote on proposals.
 
-II. Can veto but cannot vote on quadratic funding rounds held between angels and KREDIT.
+II. Can veto but cannot vote on quadratic funding rounds held between angels and managerial team.
 
 <p align="center">
 <b>( article 4 )</b><br>
@@ -273,7 +273,7 @@ Videoconferences at least once monthly. These videoconferences are to be made pu
 Composition
 </p>
 
-Initially, KREDIT's composed of the founding members of the V Imperium DAC. At any time KREDIT can consensually invite or kick members from its composition.
+Initially, KREDIT's composed of the founding members of the V Imperium DAC. At any time the manegerial team can consensually invite or kick members from its composition.
 
 <p align="center">
 <b>( article 4-d )</b><br>
@@ -287,7 +287,7 @@ Provides guidance to the DAC by regularly discussing important events to V Imper
 Angels
 </p>
 
-Are the organs responsible to evaluate the level of corruption within the DAC. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from V Imperium's treasury. The first ethical committees are also co-founders of V Imperium along with KREDIT.
+Are the organs responsible to evaluate the level of corruption within the DAC. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from V Imperium's treasury.
 
 <p align="center">
 <b>( article 5-b )</b><br>
@@ -312,7 +312,7 @@ I. Can veto proposals made by shareholders by simple majority consensus.
 
 II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
-III. Participates in quadratic funding rounds together with KREDIT.
+III. Participates in quadratic funding rounds together with the manegerial team.
 
 <p align="center">
 <b>( article 6 )</b><br>
