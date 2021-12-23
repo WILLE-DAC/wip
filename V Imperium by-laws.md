@@ -168,7 +168,7 @@ Bodies
 
 I. There are 2 main bodies that contribute to the normal functioning of the V Imperium DAC: shareholders and the manegerial team. 
 
-II. There are 2 minor bodies: Stakeholders can be considered a minor body considering that they only participate in the proposing the managing team.
+II. There are 2 minor bodies: stakeholders can be considered a minor body considering that they only participate in the proposing the managing team, and Angels.
 
 (ellaborate)
 
