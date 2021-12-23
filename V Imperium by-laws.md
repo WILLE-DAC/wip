@@ -166,14 +166,20 @@ VI. In case of expulsion from V Imperium a minimum value equivalent to the initi
 Bodies
 </p>
 
-There are 3 different bodies that contribute to the normal functioning of the V Imperium DAC: shareholders, angels and KREDIT.
+There are 2 main bodies that contribute to the normal functioning of the V Imperium DAC: shareholders and the manegerial team. Stakeholders can be considered a minor body considering that they only participate in the proposing the managing team.
 
 <p align="center">
 <b>( article 12 )</b><br>
 Head office
 </p>
 
-Is the space for meetups and where KREDIT operates.
+Is the space for meetups and where the managing team operates and the legal registration address for the corporation.
+
+<p align="center">
+<b>( article 12-b )</b><br>
+Showrooms</p>
+
+Are spaces open to public (...)
 
 I. The choice for the location of these spaces must be made through democratic consensus on the on-line platform.
 
