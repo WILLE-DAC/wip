@@ -166,7 +166,11 @@ VI. In case of expulsion from V Imperium a minimum value equivalent to the initi
 Bodies
 </p>
 
-There are 2 main bodies that contribute to the normal functioning of the V Imperium DAC: shareholders and the manegerial team. Stakeholders can be considered a minor body considering that they only participate in the proposing the managing team.
+I. There are 2 main bodies that contribute to the normal functioning of the V Imperium DAC: shareholders and the manegerial team. 
+
+II. There are 2 minor bodies: Stakeholders can be considered a minor body considering that they only participate in the proposing the managing team.
+
+(ellaborate)
 
 <p align="center">
 <b>( article 12 )</b><br>
@@ -228,43 +232,27 @@ Work order
 
 I. Can publish and vote on proposals.
 
-II. Can veto but cannot vote on quadratic funding rounds held between angels and KREDIT.
+II. Can veto but cannot vote on quadratic funding rounds held between angels and management team.
 
 <p align="center">
 <b>( article 3 )</b><br>
-Angels
+Stakeholders
 </p>
 
-Are the organs responsible to evaluate the level of corruption within the DAC. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from V Imperium's treasury. The first ethical committees are also co-founders of V Imperium along with KREDIT.
+Stakeholderss are (...)
 
 <p align="center">
 <b>( article 3-b )</b><br>
-Convocation
-</p>
-
-For every approved proposal an ethical committee (group of angels) is to be established.
-
-<p align="center">
-<b>( article 3-c )</b><br>
-Composition
-</p>
-
-Each ethical committee is composed of at most 10 members (angels). (ellaborate)
-
-<p align="center">
-<b>( article 3-d )</b><br>
 Work order
 </p>
 
-I. Can veto proposals made by shareholders by simple majority consensus.
+I. Can publish and vote on proposals.
 
-II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
-
-III. Participates in quadratic funding rounds together with KREDIT.
+II. Can veto but cannot vote on quadratic funding rounds held between angels and KREDIT.
 
 <p align="center">
 <b>( article 4 )</b><br>
-KREDIT
+"Manegerial team"
 </p>
 
 Is the co-founding group of V Imperium along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAC towards success of its  main mission.
@@ -296,6 +284,38 @@ Provides guidance to the DAC by regularly discussing important events to V Imper
 
 <p align="center">
 <b>( article 5 )</b><br>
+Angels
+</p>
+
+Are the organs responsible to evaluate the level of corruption within the DAC. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from V Imperium's treasury. The first ethical committees are also co-founders of V Imperium along with KREDIT.
+
+<p align="center">
+<b>( article 5-b )</b><br>
+Convocation
+</p>
+
+For every approved proposal an ethical committee (group of angels) is to be established.
+
+<p align="center">
+<b>( article 5-c )</b><br>
+Composition
+</p>
+
+Each ethical committee is composed of at most 10 members (angels). (ellaborate)
+
+<p align="center">
+<b>( article 5-d )</b><br>
+Work order
+</p>
+
+I. Can veto proposals made by shareholders by simple majority consensus.
+
+II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
+
+III. Participates in quadratic funding rounds together with KREDIT.
+
+<p align="center">
+<b>( article 6 )</b><br>
 Contractors
 </p>
 
