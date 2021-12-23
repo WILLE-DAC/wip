@@ -395,9 +395,9 @@ Veto & dissolution</p>
 
 As stipulated before:
 
-I. Shareholders dissolve the manegerial team and call for new elections with different actors.
+I. Shareholders may dissolve the manegerial team and call for new elections with different actors.
 
-II. Managerial team can veto proposals made by the shareholders.
+II. Manegerial team can veto proposals made by the shareholders.
 
 <p align="center">
 <b>( article 5 )</b><br>
