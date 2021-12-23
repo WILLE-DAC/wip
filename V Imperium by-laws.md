@@ -23,15 +23,14 @@ Aspects yet to be defined upon the launch of the DAC.
 <b>( article 1 )</b><br>
 Mission
 </p>
-
-V Imperium is a decentralized autonomous corporation (DAC) committed to developing and implementing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus. Our action takes place all over the world from developed countries to installed dictatorships; we are here to help humanity achieve its full potential by combating concentration of power and its abuse.
+V Imperium buys, repairs, builds, loans and sells real estate properties backed by fractional investments made with cryptocurrencies. Our goal is to democratize the real estate market.
 
 <p align="center">
 <b>( article 2 )</b><br>
 Name, acronym and symbol
 </p>
 
-This DAC is named V Imperium inspired by a popular anime series and which stands in German for volition or 'the' will. Colors are white and blue and as a symbol we have a lock and a key in representation of our strong values regarding cybersecurity.
+This DAC is named V Imperium inspired by a poem made by an acclaimed portuguese poet. Colors are (...) and symbols as (...)
 
 <p align="center">
 <b>( article 3 )</b><br>
